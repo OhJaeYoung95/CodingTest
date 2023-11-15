@@ -1,0 +1,15 @@
+C:\CodingTest\C#\Painting_1115\Painting\obj\Debug\net6.0\Painting.csproj.AssemblyReference.cache
+C:\CodingTest\C#\Painting_1115\Painting\obj\Debug\net6.0\Painting.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingTest\C#\Painting_1115\Painting\obj\Debug\net6.0\Painting.AssemblyInfoInputs.cache
+C:\CodingTest\C#\Painting_1115\Painting\obj\Debug\net6.0\Painting.AssemblyInfo.cs
+C:\CodingTest\C#\Painting_1115\Painting\obj\Debug\net6.0\Painting.csproj.CoreCompileInputs.cache
+C:\CodingTest\C#\Painting_1115\Painting\bin\Debug\net6.0\Painting.exe
+C:\CodingTest\C#\Painting_1115\Painting\bin\Debug\net6.0\Painting.deps.json
+C:\CodingTest\C#\Painting_1115\Painting\bin\Debug\net6.0\Painting.runtimeconfig.json
+C:\CodingTest\C#\Painting_1115\Painting\bin\Debug\net6.0\Painting.dll
+C:\CodingTest\C#\Painting_1115\Painting\bin\Debug\net6.0\Painting.pdb
+C:\CodingTest\C#\Painting_1115\Painting\obj\Debug\net6.0\Painting.dll
+C:\CodingTest\C#\Painting_1115\Painting\obj\Debug\net6.0\refint\Painting.dll
+C:\CodingTest\C#\Painting_1115\Painting\obj\Debug\net6.0\Painting.pdb
+C:\CodingTest\C#\Painting_1115\Painting\obj\Debug\net6.0\Painting.genruntimeconfig.cache
+C:\CodingTest\C#\Painting_1115\Painting\obj\Debug\net6.0\ref\Painting.dll
