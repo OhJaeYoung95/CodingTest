@@ -7,6 +7,7 @@
             int answer = 0;
             int range = section[0] - 1;
 
+
             for (int i = 0; i < section.Length; ++i)
             {
                 if (section[i] > range)
