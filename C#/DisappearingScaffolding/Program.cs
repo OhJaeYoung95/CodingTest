@@ -21,24 +21,6 @@
             if(board[player[(int)Position.Y + 1], player[(int)Position.X + 1]] == 0)
             {
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             }
 
             return false;
